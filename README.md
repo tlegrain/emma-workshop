@@ -1,5 +1,5 @@
 # Emma Public Workshop Repo
 
-* Files in it
+* Shakespeare
 * Important GitHub concepts
 
